@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Tajawal', sans-serif;
+}
+h1 {
+    font-family: font-family: 'Tajawal', sans-serif;
+    font-size: 50px;
+}
+
+img{
+    padding: 30px;
+}
+#text-container {
+    background-color: rgb(248, 248, 255);
+    width: 700px;
+    padding: 40px;
+    font-size: 20px;
+}
+
+#sub-text {
+    margin-top: 10px;
+    width: 780px;
+}
+
+a{
+    color: rgb(196, 69, 253);
+}
